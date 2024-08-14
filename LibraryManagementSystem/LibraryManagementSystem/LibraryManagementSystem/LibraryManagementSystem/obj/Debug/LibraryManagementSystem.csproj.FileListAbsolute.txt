@@ -1,0 +1,284 @@
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MaterialSkin.dll
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Dashboard.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmLogin.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.listBook.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddBooks.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.studentManagement.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmStudentInfo.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmBookInfoDetails.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySqlConnector.dll
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySqlConnector.xml
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmApproveStudent.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.authorManagement.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.publisherManagement.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.rakLocationManagement.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddAuthor.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddPublisher.resources
+C:\Users\charl\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAssignBooks.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MaterialSkin.dll
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySqlConnector.dll
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySqlConnector.xml
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.authorManagement.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Dashboard.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddAuthor.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddPublisher.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmApproveStudent.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmBookInfoDetails.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmLogin.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmStudentInfo.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucListBook.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucPublisherManagement.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucStudentManagement.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucRakLocationManagement.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAssignMaterials.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucAssignMaterial.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddMaterial.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmEmail.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmIssueDetails.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucRequestedManagement.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmReturnBook.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucReturnManagement.resources
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.manifest
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.application
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.TrustInfo.xml
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe.manifest
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.application
+C:\Users\charl\Desktop\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.checkbox.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.manifest
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.application
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MaterialSkin.dll
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySqlConnector.dll
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySqlConnector.xml
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAssignMaterials.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmEmail.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmIssueDetails.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmReturnBook.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucAssignMaterial.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.authorManagement.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Dashboard.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddAuthor.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddMaterial.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddPublisher.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmApproveStudent.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmBookInfoDetails.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmLogin.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmStudentInfo.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucListBook.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucPublisherManagement.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucRakLocationManagement.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucRequestedManagement.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucReturnManagement.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucStudentManagement.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.TrustInfo.xml
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe.manifest
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.application
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmIssueBook.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucIssueManagement.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmCollectionManagement.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmManageIssueList.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAuthorList.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmPublisherList.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmUserManagement.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmRequestList.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmIssueManagements.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmReturnMaterialManagement.resources
+C:\Users\charl\Desktop\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmUpdateMaterial.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.manifest
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.application
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MaterialSkin.dll
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySqlConnector.dll
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.dll
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.dll
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySqlConnector.xml
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.xml
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.xml
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAssignMaterials.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmCollectionManagement.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAuthorList.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmManageIssueList.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmEmail.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmIssueBook.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmIssueDetails.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmPublisherList.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmReturnBook.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmUserManagement.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmRequestList.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmIssueManagements.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmReturnMaterialManagement.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmUpdateMaterial.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucAssignMaterial.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.authorManagement.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Dashboard.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddAuthor.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddMaterial.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddPublisher.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmApproveStudent.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmBookInfoDetails.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmLogin.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmStudentInfo.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucIssueManagement.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucListBook.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucPublisherManagement.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucRakLocationManagement.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucRequestedManagement.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucReturnManagement.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucStudentManagement.resources
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.TrustInfo.xml
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe.manifest
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.application
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Deployment\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAssignMaterials.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form_Author_Management.frmUpdateAuthor.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmCollectionManagement.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAuthorList.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmManageIssueList.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form_Publisher_Management.frmUpdatePublisher.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmEmail.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmIssueBook.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmIssueDetails.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmPublisherList.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmUserManagement.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmRequestList.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmIssueManagements.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmUpdateMaterial.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucAssignMaterial.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.authorManagement.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Dashboard.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddAuthor.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddMaterial.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmAddPublisher.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmApproveStudent.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmBookInfoDetails.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmLogin.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmStudentInfo.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucIssueManagement.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucListBook.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucPublisherManagement.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucRakLocationManagement.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucRequestedManagement.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucReturnManagement.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ucStudentManagement.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.manifest
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.application
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MaterialSkin.dll
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySqlConnector.dll
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.dll
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.dll
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySqlConnector.xml
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.xml
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.xml
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.TrustInfo.xml
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe.manifest
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.application
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form_Location_Management.frmAddLocation.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form_Location_Management.frmLocationList.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form_Location_Management.frmUpdateLocation.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form_Categoy_Management.frmAddCategory.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form_Categoy_Management.frmCategoryList.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form_Categoy_Management.frmUpdateCategory.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form_Department_Management.frmDepartmentList.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form_Department_Management.frmAddDepartment.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form_Department_Management.frmUpdateDepartment.resources
+D:\OJT\Library Management System\Backup-March-31-2023-Friday-1141\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.frmDashboardDetails.resources

@@ -1,0 +1,724 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{77907BE4-9F30-4E83-923C-1F30D42B1D6E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LibraryManagementSystem</RootNamespace>
+    <AssemblyName>LibraryManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\charl\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Library Management System</ProductName>
+    <PublisherName>Apolinario, Renzelle Laurence S.</PublisherName>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>25F65654D2A3F8371E43A004246E7CFFF0DD3D8F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>LibraryManagementSystem_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>library-_1_.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=2.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.2.2.3.1\lib\net461\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlConnector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlConnector.2.2.5\lib\net471\MySqlConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.6.0.0\lib\net461\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class Programs\Book.cs" />
+    <Compile Include="Backup Forms\frmAssignMaterials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Backup Forms\frmAssignMaterials.Designer.cs">
+      <DependentUpon>frmAssignMaterials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Author Management\frmUpdateAuthor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Author Management\frmUpdateAuthor.Designer.cs">
+      <DependentUpon>frmUpdateAuthor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Categoy Management\frmAddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Categoy Management\frmAddCategory.Designer.cs">
+      <DependentUpon>frmAddCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Categoy Management\frmCategoryList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Categoy Management\frmCategoryList.Designer.cs">
+      <DependentUpon>frmCategoryList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Categoy Management\frmUpdateCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Categoy Management\frmUpdateCategory.Designer.cs">
+      <DependentUpon>frmUpdateCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Collection Materials Management\frmCollectionManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Collection Materials Management\frmCollectionManagement.Designer.cs">
+      <DependentUpon>frmCollectionManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Author Management\frmAuthorList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Author Management\frmAuthorList.Designer.cs">
+      <DependentUpon>frmAuthorList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Department Management\frmAddDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Department Management\frmAddDepartment.Designer.cs">
+      <DependentUpon>frmAddDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Department Management\frmDepartmentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Department Management\frmDepartmentList.Designer.cs">
+      <DependentUpon>frmDepartmentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Department Management\frmUpdateDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Department Management\frmUpdateDepartment.Designer.cs">
+      <DependentUpon>frmUpdateDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Issue and Return Management\frmManageIssueList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Issue and Return Management\frmManageIssueList.Designer.cs">
+      <DependentUpon>frmManageIssueList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Location Management\frmAddLocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Location Management\frmAddLocation.Designer.cs">
+      <DependentUpon>frmAddLocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Location Management\frmLocationList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Location Management\frmLocationList.Designer.cs">
+      <DependentUpon>frmLocationList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Location Management\frmUpdateLocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Location Management\frmUpdateLocation.Designer.cs">
+      <DependentUpon>frmUpdateLocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Publisher Management\frmUpdatePublisher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Publisher Management\frmUpdatePublisher.Designer.cs">
+      <DependentUpon>frmUpdatePublisher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Publisher Management\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Form Publisher Management\UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Student Management\frmEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Student Management\frmEmail.Designer.cs">
+      <DependentUpon>frmEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Assign Management\frmIssueBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Assign Management\frmIssueBook.Designer.cs">
+      <DependentUpon>frmIssueBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Issue and Return Management\frmIssueDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Issue and Return Management\frmIssueDetails.Designer.cs">
+      <DependentUpon>frmIssueDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Publisher Management\frmPublisherList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Publisher Management\frmPublisherList.Designer.cs">
+      <DependentUpon>frmPublisherList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Student Management\frmUserManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Student Management\frmUserManagement.Designer.cs">
+      <DependentUpon>frmUserManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Request Management\frmRequestList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Request Management\frmRequestList.Designer.cs">
+      <DependentUpon>frmRequestList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Assign Management\frmIssueManagements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Assign Management\frmIssueManagements.Designer.cs">
+      <DependentUpon>frmIssueManagements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Collection Materials Management\frmUpdateMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Collection Materials Management\frmUpdateMaterial.Designer.cs">
+      <DependentUpon>frmUpdateMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDashboardDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDashboardDetails.Designer.cs">
+      <DependentUpon>frmDashboardDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Form Control\ucAuthorManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Form Control\ucAuthorManagement.Designer.cs">
+      <DependentUpon>ucAuthorManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class Programs\Class1.cs" />
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Author Management\frmAddAuthor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Author Management\frmAddAuthor.Designer.cs">
+      <DependentUpon>frmAddAuthor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Collection Materials Management\frmAddMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Collection Materials Management\frmAddMaterial.Designer.cs">
+      <DependentUpon>frmAddMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Publisher Management\frmAddPublisher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Publisher Management\frmAddPublisher.Designer.cs">
+      <DependentUpon>frmAddPublisher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Student Management\frmApproveStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Student Management\frmApproveStudent.Designer.cs">
+      <DependentUpon>frmApproveStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Collection Materials Management\frmBookInfoDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Collection Materials Management\frmBookInfoDetails.Designer.cs">
+      <DependentUpon>frmBookInfoDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Student Management\frmStudentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Student Management\frmStudentInfo.Designer.cs">
+      <DependentUpon>frmStudentInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Form Control\ucIssueManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Form Control\ucIssueManagement.Designer.cs">
+      <DependentUpon>ucIssueManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Form Control\ucListBook.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Form Control\ucListBook.Designer.cs">
+      <DependentUpon>ucListBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class Programs\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User Form Control\ucPublisherManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Form Control\ucPublisherManagement.Designer.cs">
+      <DependentUpon>ucPublisherManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Form Control\ucRakLocationManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Form Control\ucRakLocationManagement.Designer.cs">
+      <DependentUpon>ucRakLocationManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Form Control\ucRequestedManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Form Control\ucRequestedManagement.Designer.cs">
+      <DependentUpon>ucRequestedManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Form Control\ucReturnManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Form Control\ucReturnManagement.Designer.cs">
+      <DependentUpon>ucReturnManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Form Control\ucStudentManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Form Control\ucStudentManagement.Designer.cs">
+      <DependentUpon>ucStudentManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Form Control\ucAssignMaterial.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Form Control\ucAssignMaterial.Designer.cs">
+      <DependentUpon>ucAssignMaterial.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Backup Forms\frmAssignMaterials.resx">
+      <DependentUpon>frmAssignMaterials.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Author Management\frmUpdateAuthor.resx">
+      <DependentUpon>frmUpdateAuthor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Categoy Management\frmAddCategory.resx">
+      <DependentUpon>frmAddCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Categoy Management\frmCategoryList.resx">
+      <DependentUpon>frmCategoryList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Categoy Management\frmUpdateCategory.resx">
+      <DependentUpon>frmUpdateCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Collection Materials Management\frmCollectionManagement.resx">
+      <DependentUpon>frmCollectionManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Author Management\frmAuthorList.resx">
+      <DependentUpon>frmAuthorList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Department Management\frmAddDepartment.resx">
+      <DependentUpon>frmAddDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Department Management\frmDepartmentList.resx">
+      <DependentUpon>frmDepartmentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Department Management\frmUpdateDepartment.resx">
+      <DependentUpon>frmUpdateDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Issue and Return Management\frmManageIssueList.resx">
+      <DependentUpon>frmManageIssueList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Location Management\frmAddLocation.resx">
+      <DependentUpon>frmAddLocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Location Management\frmLocationList.resx">
+      <DependentUpon>frmLocationList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Location Management\frmUpdateLocation.resx">
+      <DependentUpon>frmUpdateLocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Publisher Management\frmUpdatePublisher.resx">
+      <DependentUpon>frmUpdatePublisher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Student Management\frmEmail.resx">
+      <DependentUpon>frmEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Assign Management\frmIssueBook.resx">
+      <DependentUpon>frmIssueBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Issue and Return Management\frmIssueDetails.resx">
+      <DependentUpon>frmIssueDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Publisher Management\frmPublisherList.resx">
+      <DependentUpon>frmPublisherList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Student Management\frmUserManagement.resx">
+      <DependentUpon>frmUserManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Request Management\frmRequestList.resx">
+      <DependentUpon>frmRequestList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Assign Management\frmIssueManagements.resx">
+      <DependentUpon>frmIssueManagements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Collection Materials Management\frmUpdateMaterial.resx">
+      <DependentUpon>frmUpdateMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDashboardDetails.resx">
+      <DependentUpon>frmDashboardDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Form Control\ucAssignMaterial.resx">
+      <DependentUpon>ucAssignMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Form Control\ucAuthorManagement.resx">
+      <DependentUpon>ucAuthorManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Author Management\frmAddAuthor.resx">
+      <DependentUpon>frmAddAuthor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Collection Materials Management\frmAddMaterial.resx">
+      <DependentUpon>frmAddMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Publisher Management\frmAddPublisher.resx">
+      <DependentUpon>frmAddPublisher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Student Management\frmApproveStudent.resx">
+      <DependentUpon>frmApproveStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Collection Materials Management\frmBookInfoDetails.resx">
+      <DependentUpon>frmBookInfoDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Student Management\frmStudentInfo.resx">
+      <DependentUpon>frmStudentInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Form Control\ucIssueManagement.resx">
+      <DependentUpon>ucIssueManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Form Control\ucListBook.resx">
+      <DependentUpon>ucListBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="User Form Control\ucPublisherManagement.resx">
+      <DependentUpon>ucPublisherManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Form Control\ucRakLocationManagement.resx">
+      <DependentUpon>ucRakLocationManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Form Control\ucRequestedManagement.resx">
+      <DependentUpon>ucRequestedManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Form Control\ucReturnManagement.resx">
+      <DependentUpon>ucReturnManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Form Control\ucStudentManagement.resx">
+      <DependentUpon>ucStudentManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="LibraryManagementSystem_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books-stack-of-three.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books-stack-of-three %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stack-of-books.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stack-of-books %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notebook-of-contacts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lovepik_com-401716963-library-reading.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exchange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\available.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\problem-solving.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet-point.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books-stack-of-three %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notebook-of-contacts %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cells.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table-grid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reading-book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reading-book %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x-mark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ref.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pics.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toppng.com-file-upload-image-icon-980x980.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pics1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reading-book %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publisher.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publisher %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\location.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\authorize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\occupation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\occupation1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\request.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\return.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manual.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="library-_1_.ico" />
+    <None Include="Resources\pencil.png" />
+    <None Include="Resources\trash1.png" />
+    <None Include="Resources\trash.png" />
+    <None Include="Resources\check-circle.png" />
+    <None Include="Resources\close %281%29.png" />
+    <None Include="Resources\done.png" />
+    <None Include="Resources\tick.png" />
+    <None Include="Resources\check.gif" />
+    <None Include="Resources\check %282%29.png" />
+    <None Include="Resources\check %281%29.png" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\undo-arrow.png" />
+    <None Include="Resources\cancel.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\refresh-page-option.png" />
+    <None Include="Resources\plus %281%29.png" />
+    <None Include="Resources\plus.png" />
+    <None Include="Resources\return %283%29.png" />
+    <None Include="Resources\return %282%29.png" />
+    <None Include="Resources\manual %282%29.png" />
+    <None Include="Resources\manual %281%29.png" />
+    <None Include="Resources\occupation %284%29.png" />
+    <None Include="Resources\occupation %282%29.png" />
+    <None Include="Resources\occupation %281%29.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,105 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace LibraryManagementSystem
+{
+    public partial class frmAddPublisher : Form
+    {
+        public frmAddPublisher()
+        {
+            InitializeComponent();
+        }
+
+        Library1 Books = new Library1("localhost", "librarymanagementstudent", "root", "");
+        private void validateName()
+        {
+            DataTable dt = Books.GetData("SELECT * FROM publisher WHERE Name = '" + txtName.Text + "'");
+            if (txtName.Text == "")
+            {
+                errorProvider1.SetError(txtName, "Name is Required");
+            }
+            else if (dt.Rows.Count > 0)
+            {
+                errorProvider1.SetError(txtName, "Name should be Unique");
+            }
+            else
+            {
+                errorProvider1.SetError(txtName, "");
+
+            }
+        }
+        private void validateGender()
+        {
+            if (cmbGender.SelectedIndex < 0)
+            {
+                errorProvider1.SetError(cmbGender, "Gender is Required");
+            }
+            else
+            {
+                errorProvider1.SetError(cmbGender, "");
+            }
+        }
+
+        private int errorCount;
+        public void ErrorCounts()
+        {
+            errorCount = 0;
+            foreach (Control c in errorProvider1.ContainerControl.Controls)
+            {
+                if (errorProvider1.GetError(c) != "")
+                {
+                    errorCount++;
+                }
+            }
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            validateName();
+            validateGender();
+            ErrorCounts();
+            if (errorCount == 0)
+            {
+                try
+                {
+                    DialogResult answer = MessageBox.Show("Are you sure you want to save this data?", "Message", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                    if (answer == DialogResult.Yes)
+                    {
+                        Books.executeSQL("INSERT INTO publisher (Name, Gender) VALUES('" + txtName.Text + "', '" + cmbGender.Text + "') ");
+                        if (Books.rowAffected > 0)
+                        {
+                            MessageBox.Show("New Author added!", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            Books.executeSQL("INSERT INTO logs (date, time, module, action) VALUES('" + DateTime.Now.ToString("yyyy-MM-dd ") + "','"
+                                        + DateTime.Now.ToLongTimeString() + "','Publisher','" + txtName.Text + " added in publisher')");
+                            frmPublisherList newFrm = (frmPublisherList)Application.OpenForms["frmPublisherList"];
+                            newFrm.autoRefresh();
+                            this.Close();
+                        }
+                    }
+                }
+                catch (Exception error)
+                {
+                    MessageBox.Show(error.Message, "Error on Add new publisher!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtName.Clear();
+            cmbGender.SelectedIndex = -1;
+        }
+
+        private void txtX_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}
